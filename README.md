@@ -10,7 +10,7 @@ Funcionalidades
   
 <li>Chatbot Interativo: O chatbot responde a perguntas e fornece informações sobre sustentabilidade e reciclagem.</li>
 <li>IA do Google: Utiliza a tecnologia Gemini para processamento de linguagem natural e geração de respostas inteligentes.</li>
-<li>Interface Amigável: Interface simples e intuitiva para facilitar a interação do usuário.</li>
+<li>Interface Amigável: Interface simples e intuitiva para facilitar a interação do usuário.</li><br>
 
 Tecnologias Utilizadas
   
